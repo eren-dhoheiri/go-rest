@@ -3,9 +3,9 @@ package routes
 import (
 	"net/http"
 
-	"github.com/erendhoheiri/go-rest/middleware"
+	"github.com/eren-dhoheiri/go-rest/middleware"
 
-	"github.com/erendhoheiri/go-rest/controllers"
+	"github.com/eren-dhoheiri/go-rest/controllers"
 	"github.com/labstack/echo"
 )
 

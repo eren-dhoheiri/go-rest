@@ -3,7 +3,7 @@ package db
 import (
 	"database/sql"
 
-	"github.com/erendhoheiri/go-rest/config"
+	"github.com/eren-dhoheiri/go-rest/config"
 	_ "github.com/go-sql-driver/mysql"
 )
 

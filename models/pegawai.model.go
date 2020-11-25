@@ -5,7 +5,7 @@ import (
 
 	validator "github.com/go-playground/validator/v10"
 
-	"github.com/erendhoheiri/go-rest/db"
+	"github.com/eren-dhoheiri/go-rest/db"
 )
 
 type Pegawai struct {

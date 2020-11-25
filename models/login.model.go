@@ -4,9 +4,9 @@ import (
 	"database/sql"
 	"fmt"
 
-	"github.com/erendhoheiri/go-rest/helpers"
+	"github.com/eren-dhoheiri/go-rest/helpers"
 
-	"github.com/erendhoheiri/go-rest/db"
+	"github.com/eren-dhoheiri/go-rest/db"
 )
 
 type User struct {

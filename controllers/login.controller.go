@@ -6,9 +6,9 @@ import (
 
 	"github.com/dgrijalva/jwt-go"
 
-	"github.com/erendhoheiri/go-rest/models"
+	"github.com/eren-dhoheiri/go-rest/models"
 
-	"github.com/erendhoheiri/go-rest/helpers"
+	"github.com/eren-dhoheiri/go-rest/helpers"
 	"github.com/labstack/echo"
 )
 

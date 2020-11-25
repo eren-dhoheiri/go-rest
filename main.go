@@ -1,6 +1,6 @@
 package main
 
-import "github.com/erendhoheiri/go-rest/routes"
+import "github.com/eren-dhoheiri/go-rest/routes"
 
 func main() {
 	e := routes.Init()

@@ -1,4 +1,4 @@
-module github.com/erendhoheiri/go-rest
+module github.com/eren-dhoheiri/go-rest
 
 go 1.13
 

@@ -4,7 +4,7 @@ import (
 	"net/http"
 	"strconv"
 
-	"github.com/erendhoheiri/go-rest/models"
+	"github.com/eren-dhoheiri/go-rest/models"
 	"github.com/labstack/echo"
 )
 
